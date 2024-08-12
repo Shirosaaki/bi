@@ -20,4 +20,5 @@ you need to create .bi file and code inside. Whe you have finished, you can make
 For code in bi, you have two solution for know how bi work
 
 1. Study compilateur.py - Yes, if you read and understand how work compilateur.py, you can find how work bi langage (PS : If you find how optimise it, you can contact me at : [matheo.campanella@epitech.eu](matheo.campanella@epitech.eu)
-2. View the rest of the readme
+2. View the documentation ob BI [IR](doc)
+
