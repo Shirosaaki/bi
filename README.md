@@ -1,24 +1,21 @@
 # Bi
-**Bi** is my own programming langage
+**Bi** is my own programming language.
 
 ## Description
 
-**Bi** is my programming langage inspire of the C.
+**Bi** is my programming language inspired by C.
 
-But in **Bi**, you will almost never view text. Why ? 
+But in **Bi**, you will almost never see text. Why?
 
-Beaucause, i transform the mostly used function in 0 and 1, same for logical instruction, calcul instruction ect...
+Because I transform the most commonly used functions into 0s and 1s, the same for logical instructions, calculation instructions, etc.
 
-## How to run the code ?
+## How to run the code?
 
-You need to clone / copy the 'compilateur.py' in your workspace and, for code,
+You need to clone or copy the `compilateur.py` file into your workspace. To code, you need to create a `.bi` file and write your code inside it. When you have finished, you can run `./compilateur.py [file1.bi] [file2.bi] [...]` or `python3 compilateur.py [file1.bi] [file2.bi] [...]`.
 
-you need to create .bi file and code inside. Whe you have finished, you can make ./compilateur.py [file1.bi] [file2.bi] [...] or python3 compilateur.py [file1.bi] [file2.bi] [...]
+## How to code in **Bi**?
 
-## How code in **Bi** ?
+To code in **Bi**, you have two solutions to understand how **Bi** works:
 
-For code in **Bi**, you have two solution for know how bi work
-
-1. Study compilateur.py - Yes, if you read and understand how work compilateur.py, you can find how work bi langage (PS : If you find how optimise it, you can contact me at : [matheo.campanella@epitech.eu](matheo.campanella@epitech.eu)
-2. View the documentation ob BI [IR](https://doc-bi.vercel.app)
-
+1. Study `compilateur.py` - Yes, if you read and understand how `compilateur.py` works, you can find out how the **Bi** language works. (PS: If you find how to optimize it, you can contact me at: [matheo.campanella@epitech.eu](mailto:matheo.campanella@epitech.eu))
+2. View the documentation on **Bi** [here](https://doc-bi.vercel.app)
